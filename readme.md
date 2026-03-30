@@ -4,9 +4,9 @@
 
 ## 🛠️ Tech & Tools
 
-* **Languages:** Python, Rust (learning), C++ (basics)
-* **Domains:** Systems Engineering, AI/ML (applied), Simulation
-* **Tools:** Git, Linux, Docker (learning), GitHub Actions (basic)
+* **Languages:** Python, Rust , C++ 
+* **Domains:** Systems Engineering, AI/ML, Simulation
+* **Tools:** Git, Linux, Docker , GitHub Actions 
 
 ---
 
