@@ -1,27 +1,5 @@
-<h1 align="center">
-  <span style="display:inline-block; animation: slideIn 1s ease-out;">
-    Hi, I'm Hari 👋
-  </span>
-</h1>
+<h1 align="center">Hi, I'm Hari 👋</h1>
 
-<p align="center" style="animation: fadeIn 2s ease-in;">
-  First year Mechanical Engineering student exploring systems, AI, and real-world engineering problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=00FFAA&center=true&vCenter=true&width=600&lines=Mechanical+Engineer+%7C+Systems+Thinker;AI+%2B+Real+World+Engineering;Always+Building+🚀" />
 </p>
-
-<style>
-@keyframes slideIn {
-  from {
-    transform: translateX(-100px);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
