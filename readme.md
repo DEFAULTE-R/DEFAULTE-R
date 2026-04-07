@@ -17,3 +17,11 @@
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=00FFAA" />
   <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=00FFAA" />
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEFAULTE-R&show_icons=true&theme=dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF" height="165"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEFAULTE-R&layout=compact&theme=dark&hide_border=true&title_color=00FFAA&text_color=FFFFFF" height="165"/>
+</p>
