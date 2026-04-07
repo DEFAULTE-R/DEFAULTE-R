@@ -45,7 +45,7 @@
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/hari">
+  <a href="https://linkedin.com/in/haril2019">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FFAA" />
   </a>
   <a href="mailto:harilogesh2019@gmail.com">
